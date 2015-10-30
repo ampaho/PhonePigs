@@ -36,7 +36,7 @@ We get this:
 	(J625,{(J625,Jürgen)})
 	(Y625,{(Y625,Yurgen)})
 	
-If we use CAVERPHONE instead, you get a better result for this specific data:
+With CAVERPHONE we get a better result for this specific data:
 
 	(ALN1111111,{(ALN1111111,Alaan),(ALN1111111,Allan),(ALN1111111,Alan)})
 	(APPKA11111,{(APPKA11111,Abubacar),(APPKA11111,Aboubakar)})
@@ -44,4 +44,4 @@ If we use CAVERPHONE instead, you get a better result for this specific data:
 	(YKN1111111,{(YKN1111111,Jürgen),(YKN1111111,Yurgen)})
 
 ##Acknowledgements
-I originally wrote started this project for Jolome Benin to remove duplicates from the LEPI (Liste Electorale Permanente Informatisée) for Electoral Ballots in Benin Republic. I also used it for WhyInside.com (GrubHub for latin restaurants). It's lightweight and plays nice with DataFu.
+I originally wrote started this project for Jolome to remove duplicates from the LEPI (Liste Electorale Permanente Informatisée) for Electoral Ballots in Benin Republic. I also used it for WhyInside.com (GrubHub for latin restaurants). It's lightweight and plays nice with DataFu.
